@@ -1,0 +1,66 @@
+body{
+    margin: 30px;
+}
+
+
+.target{
+    background: orange;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    box-shadow: 10px 10px 0px 0 #454546;
+    text-align: center;
+}
+
+.bix{
+    background: orange;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    box-shadow: 10px 10px 4px 0 #454546;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bax{
+    background: orange;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    box-shadow: 16px 10px 5px 0 #454546;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.box{
+    background: orange;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    box-shadow: 20px 13px 15px 0 #808080;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.blx{
+    background: orange;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    box-shadow: 10px 10px 3px 0 #454546;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.zxc{
+    background: orange;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    box-shadow: 10px 10px 6px 0 #808080;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 7px;
+}
